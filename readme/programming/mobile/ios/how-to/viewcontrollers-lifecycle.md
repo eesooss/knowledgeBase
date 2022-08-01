@@ -1,2 +1,0 @@
-# ViewController's lifecycle
-
