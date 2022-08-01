@@ -2,10 +2,10 @@
 
 * [eesoos's wiki](README.md)
   * [Art](eesooss-wiki/art/README.md)
+    * [Clothes](eesooss-wiki/art/clothes.md)
     * [Anime](eesooss-wiki/art/anime.md)
-    * [Plotting](eesooss-wiki/art/plotting.md)
     * [Photography](eesooss-wiki/art/photography.md)
-    * [Painting](eesooss-wiki/art/painting.md)
+    * [Drawing](eesooss-wiki/art/drawing.md)
   * [API](eesooss-wiki/api.md)
   * [Automation](eesooss-wiki/automation.md)
   * [Books](eesooss-wiki/books.md)
