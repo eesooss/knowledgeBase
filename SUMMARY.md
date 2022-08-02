@@ -4,7 +4,6 @@
 
 - [API](eesooss-wiki/api.md)
 - [Art](eesooss-wiki/art/art.md)
-  - [Photography](eesooss-wiki/art/photography.md)
   - [Drawing](eesooss-wiki/art/drawing.md)
   - [Anime](eesooss-wiki/art/anime.md)
   - [Clothes](eesooss-wiki/art/clothes.md)
