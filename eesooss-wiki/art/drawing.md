@@ -2,7 +2,7 @@
 
 
 
-### Links[​](https://wiki.nikiv.dev/art/drawing#links) <a href="#links" id="links"></a>
+### Links[​](https://vihthetempest.gitbook.io/eesooss-wiki/art/drawing#links) <a href="#links" id="links"></a>
 
 * [Draw a Box](https://drawabox.com/) - One of the best free drawing courses.
 * [Winter Cycling ❄️ iPad Pro Drawing](https://www.youtube.com/watch?v=4FGEX8yZqiM\&app=desktop)
